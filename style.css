@@ -1,0 +1,224 @@
+*{
+    padding: 12px;
+    border-radius: 7px;
+    align-self: center;
+    border: 7px;
+    background-color: azure;
+    scroll-behavior: smooth;
+}
+.lin2 {
+    background: 7px;
+    text-transform: capitalize;
+    float: right;
+    font-weight: 500;
+
+}
+.lin2 a {
+    text-align: end;
+    background-color: green;
+    padding: 10px;
+    color: white;
+    text-decoration: solid;
+    
+    
+
+}
+.lin1 {
+    
+    background-color:green;
+    text-align: center;
+
+}
+.lin1 a {
+    text-decoration: none;
+    color: green;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+.category {
+    font-display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+    display: flex;
+    color: rgb(24, 63, 24);
+    
+}
+.gender-details {
+    color: green;
+    padding-right: 7px;
+    font-size: 30px;
+    font-display: flex;
+
+}
+#name {
+    border-color: green;
+    border: 7px;
+    color: black;
+}
+.container1 {
+    color: rgb(92, 141, 92);
+    flex-direction: wrap;
+
+}
+.register {
+    color: green;
+}
+.register h{
+    font-size: 75px;
+    font-weight: bold;
+    text-decoration: dotted;
+
+
+}
+header {
+    background-color: green;
+    padding: 40px;
+        position: fixed;
+        top: 10;
+        width: 90%;
+        border: 12px;
+        
+
+
+}
+.word {
+    line-height: normal;
+    flex-wrap: wrap; 
+    flex-direction: column;
+    color: rgb(26, 63, 26);
+    font-weight: bold;
+      
+}
+.word p {
+    line-height: normal;
+    font-display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+    font-size: 10px;
+
+}
+.word li {
+    position: left;
+}
+.logo{
+    color: rgb(20, 221, 221);
+    text-decoration: none;
+    background-color: aliceblue;
+    
+}
+header a {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+}
+.logo a{
+    text-decoration: none;
+    border-radius: 7px;
+    border-color: green;
+
+}
+#foward {
+    
+    color: rgb(26, 63, 26) ;
+    font-weight: bold;
+}
+#foward p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    background-color: rgb(86, 163, 86);
+    
+  
+}
+#Contact {
+    color: rgb(26, 63, 26) ;
+    display: flex;
+    flex-wrap: wrap;
+}
+#Contact a {
+    text-decoration: none;
+    color: green;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+#About{
+    color:  rgb(26, 63, 26);
+
+}
+#About li {
+    text-emphasis: none;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+}
+#About a {
+    text-decoration: none;
+    color: green;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+}
+#Location {
+    color:  rgb(26, 63, 26);
+    display: flex;
+    flex-wrap: wrap;
+
+
+
+}
+#Location a {
+    text-decoration: none;
+    color:  green;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+.pictures {
+    border: 7px;
+    align-items: center;
+}
+.pictures img {
+    height:450px ;
+    width: 450px;
+    border-radius: 100px;
+    border-color: rgb(3, 53, 97);
+
+}
+.intro {
+
+    text-align: center;
+    text-size-adjust: 200px;
+    color: green;
+    height: auto;
+    margin-top: 200px;
+    padding:0;
+    line-height: 0.1;
+
+}
+.intro h1{
+    font-size: 50px;
+    font-display: flex;
+    flex-direction: column;
+}
+.foward {
+    text-align: center;
+
+}
+.next {
+float: right; 
+size: 50px;
+font-weight: bold;
+
+}
+.next a {
+    color: aliceblue;
+    background-color: green;
+    text-decoration: none;
+}
+#About {
+    padding: 1px;
+}
